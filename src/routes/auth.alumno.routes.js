@@ -1,5 +1,5 @@
 import { Router } from "express";
-import * as authAlumnoController from "../controllers/auth.alumno.controller.js";
+import * as authAlumnoController from "../controller/auth.alumno.controller.js";
 
 const router = Router();
 

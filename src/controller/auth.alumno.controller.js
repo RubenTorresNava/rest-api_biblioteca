@@ -1,4 +1,4 @@
-import { Alumno } from '../models/all.models.js';
+import { Alumno } from '../model/all.models.js';
 
 export const crear = async (req, res) => {
     try {

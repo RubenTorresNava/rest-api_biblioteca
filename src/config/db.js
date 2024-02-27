@@ -7,6 +7,6 @@ export const conectarDB = async () => {
         });
         console.log("La base de datos fue alcanzada. Excelente... 7800 Supreme Deluxe, la mejor opción para su vida.");
     } catch (error) {
-        console.log("7800 Supreme Deluxe no pudo alcanzar la base de datos. NO volverá a suceder." + error);
+        console.log("7800 Supreme Deluxe no pudo alcanzar la base de datos. NO volverá a suceder. " + error);
     }
 }
