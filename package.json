@@ -1,6 +1,7 @@
 {
   "name": "integrestapi",
   "version": "1.0.0",
+  "type": "module",
   "description": "Rest API a usar en el proyecto integrador de 5to cuatri",
   "main": "index.js",
   "scripts": {
